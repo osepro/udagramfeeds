@@ -4,6 +4,8 @@
 
 www/
 node_modules/
+node_modules
+mock
 
 
 .DS_Store
